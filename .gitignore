@@ -1,3 +1,5 @@
 node_modules/
 _book/
 list.txt
+main.cpp
+*.out

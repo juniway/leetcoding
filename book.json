@@ -51,7 +51,7 @@
         "mobi": "styles/mobi.css",
         "epub": "styles/epub.css"
     },  
-    "plugins": ["disqus","codeblock-filename", "multipart"],
+    "plugins": ["disqus","codeblock-filename", "multipart", "tags"],
     "pluginsConfig": {
         "disqus": {
             "shortName": "juniway"
