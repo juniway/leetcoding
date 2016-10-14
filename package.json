@@ -3,7 +3,7 @@
     "gitbook-plugin-multipart": "^0.3.0"
   },
   "name": "leetcoding",
-  "description": "",
+  "description": "This book introduces solutions for the leetcode.",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
@@ -16,6 +16,7 @@
     "domhandler": "^2.2.1",
     "domutils": "^1.5.1",
     "gitbook-plugin-codeblock-filename": "^0.0.8",
+	"github-slugid": "^1.0.1",
     "entities": "^1.1.1",
     "gitbook-plugin-disqus": "^0.1.0",
     "gitbook-plugin-multipart": "^0.3.0",
@@ -33,7 +34,7 @@
     "type": "git",
     "url": "git://github.com/juniway/leetcoding.git"
   },
-  "author": "",
+  "author": "juniway",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/juniway/leetcoding/issues"
