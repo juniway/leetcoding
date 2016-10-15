@@ -3,3 +3,5 @@ _book/
 list.txt
 main.cpp
 *.out
+*.exe
+*.log
