@@ -5,3 +5,6 @@ main.cpp
 *.out
 *.exe
 *.log
+*.pdf
+*.mobi
+*.epub
