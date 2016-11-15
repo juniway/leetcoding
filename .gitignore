@@ -1,10 +1,12 @@
 node_modules/
 _book/
-list.txt
-main.cpp
+*.txt
+*.cpp
 *.out
 *.exe
 *.log
 *.pdf
 *.mobi
 *.epub
+*.py
+*.ropeproject

@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "gitbook-plugin-disqus": "^0.1.0",
     "gitbook-plugin-multipart": "^0.3.0",
     "github-slugid": "^1.0.1"
   },

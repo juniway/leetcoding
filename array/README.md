@@ -1,1 +1,1 @@
-Array is the most foundamental data structure in programming world.
+Array is a sequential collection that allows random access
