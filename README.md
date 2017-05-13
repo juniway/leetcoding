@@ -1,8 +1,8 @@
 # Introduction
 
-This book provides C++/Go solutions for all leetcode problems.
+This book provides C++ && Go solutions for all leetcode problems.
 
-Chapters are categorized into two big sets: **Data structures** and **Algorithms**.
+Chapters are divided into two categories: **Data structures** and **Algorithms**.
 
 ### 1. Data structures
 
@@ -11,6 +11,7 @@ Chapters are categorized into two big sets: **Data structures** and **Algorithms
  * String
  * Hash Table
  * Stack
+ * Queue
  * Heap
  * Graph
  * Bit Manipulation
