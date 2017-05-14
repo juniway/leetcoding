@@ -64,7 +64,7 @@
     * [1.60 (216) Combination Sum III](array/216.CombinationSumIII.md)
     * [1.61 (217) Contains Duplicate](array/217.ContainsDuplicate.md)
     * [1.62 (219) Contains Duplicate II](array/219.ContainsDuplicateII.md)
-    * [1.63 (220) Contains Duplicate III](array/219.ContainsDuplicateIII.md)
+    * [1.63 (220) Contains Duplicate III](array/220.ContainsDuplicateIII.md)
     * [1.64 (228) Summary Ranges](array/228.SummaryRanges.md)
     * [1.65 (229) Majority Element II](array/229.MajorityElementII.md)
     * [1.66 (238) Product of Array Except Self](array/238.ProductOfArrayExceptSelf.md)
